@@ -98,7 +98,7 @@ int main(){
         		 cin >> pickupChoice;
 
        			 if (pickupChoice == 1) {
-          			  int random = rand() % 10; // Randomly generate 0 to 1
+          			  int random = rand() % 10; // Randomly generate 0 to 10
 
            			  if (random >= 0 && random <=1){
            			 	 cout << "OH NOO!!, Its an ENEMY and no place to run." << endl;
