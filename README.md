@@ -1,5 +1,5 @@
 # HackatonG53
-hackaton G53
+Hackathon Group 53
 
 ## Game Description.
 Title: Survivor: Venture Forest
