@@ -147,7 +147,7 @@ Using a linked list allows for flexible management of choices, making it easy to
 2. The probability in Venture Forest is not stable. The probability to found enemy, healing potion and stranger is not balance.
 3. The game does not display the level and power of weapons.
 4. Even when we die, there is an option to continue the game.
-5. The save and load game feature is only available within the same run.
+5. The save and load game feature is only available within the same run
 
 ## A link to your game demo video.
 Here we provide the link of our game.
